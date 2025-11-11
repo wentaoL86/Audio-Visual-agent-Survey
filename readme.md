@@ -228,24 +228,6 @@ A comprehensive collection of research papers and open-source projects on **Mult
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions to keep this repository up-to-date! Here's how you can help:
-
-1. **Add New Papers**: If you find a new relevant paper, please open a PR with the details.
-2. **Update GitHub Links**: If you find a GitHub link for a paper marked as "NA", let us know!
-3. **Fix Errors**: Spotted a typo or wrong link? Please open an Issue or PR.
-
-**PR Template**:
-```markdown
-- **Paper**: [Title](arxiv_link)
-- **Time**: YYYY.MM
-- **GitHub**: [Code](github_link) or NA
-- **Task**: Task Category
-```
-
----
-
 ## 📄 License
 
 This repository is released under the [MIT License](LICENSE). All paper contents and code belong to their respective authors.
