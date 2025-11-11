@@ -91,7 +91,7 @@ A comprehensive collection of research papers and open-source projects on **Mult
 | Paper Title | Time | Paper Link | GitHub Link | Task |
 | :--- | :--- | :--- | :--- | :--- |
 | **VideoLucy: Deep Memory Backtracking for Long Video Understanding** | 2025.10 | [arXiv](https://arxiv.org/abs/2510.12422) | NA | Video Understanding |
-| **Cued-Agent: A Collaborative Multi-Agent System for Automatic Cued Speech Recognition** | 2025.8 | [arXiv](https://arxiv.org/abs/2508.00391) | https://github.com/DennisHgj/Cued-Agent/ | Video Understanding |
+| **Cued-Agent: A Collaborative Multi-Agent System for Automatic Cued Speech Recognition** | 2025.8 | [arXiv](https://arxiv.org/abs/2508.00391) | [Code](https://github.com/DennisHgj/Cued-Agent/) | Video Understanding |
 | **StreamAgent: Towards Anticipatory Agents for Streaming Video Understanding** | 2025.8 | [arXiv](https://arxiv.org/abs/2508.01875) | NA | Video Understanding |
 | **FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning** | 2025.9 | [arXiv](https://arxiv.org/abs/2509.11796) | NA | Video Understanding |
 | **CAViAR: Critic-Augmented Video Agentic Reasoning** | 2025.9 | [arXiv](https://arxiv.org/abs/2509.07680) | NA | Video Understanding |
